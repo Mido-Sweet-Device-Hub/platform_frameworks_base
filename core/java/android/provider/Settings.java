@@ -5856,12 +5856,6 @@ public final class Settings {
         public static final String DISABLE_RIPPLE_EFFECT = "disable_ripple_effect";
 
         /**
-         * Whether to play haptic feedback when touching udfps icon
-         * @hide
-         */
-        public static final String UDFPS_HAPTIC_FEEDBACK = "udfps_haptic_feedback";
-
-        /**
          * Setting to hold the current set overlay for color bucket.
          * overlay package name (String)
          * @hide
